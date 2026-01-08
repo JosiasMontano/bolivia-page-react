@@ -21,7 +21,6 @@ const boliviaData = {
         gastronomia: "Salteñas, Pique Macho, Silpancho, Api con pastel",
         idiomas_oficiales: "Español, Quechua, Aymara y 34 lenguas indígenas",
         religion: "Predominantemente católica, protestante y religiones indígenas",
-        moneda: "Boliviano (BOB)",
         sistema_gobierno: "República democrática, presidencialista y unitario",
         principales_socios_comerciales: "Brasil, Argentina, China, Estados Unidos" 
     },
